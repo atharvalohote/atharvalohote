@@ -19,25 +19,25 @@
     <tr>
       <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/your-github-repo-link-for-wisk" style="text-decoration: none; display: block; border: 2px solid #007BFF; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;">
-          <img src="URL_TO_WISK_LOGO.png" alt="Recipe App Wisk Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
-          <p style="margin-top: 10px; color: #333; font-weight: bold;">Recipe App Wisk</p>
+          <img src="github/mylogo.png" alt="Recipe App Wisk Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
+          <p style="margin-top: 10px; color: #333; font-weight: bold;">Ai Recipe App Wisk</p>
         </a>
       </td>
       <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/your-github-repo-link-for-iot-devices" style="text-decoration: none; display: block; border: 2px solid #28a745; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;">
-          <img src="URL_TO_CYBERSECURITY_IOT_LOGO.png" alt="Cybersecurity IoT Devices Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
-          <p style="margin-top: 10px; color: #333; font-weight: bold;">Cybersecurity IoT Devices</p>
+          <img src="github/inexus.png" alt="Cybersecurity IoT Devices Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
+          <p style="margin-top: 10px; color: #333; font-weight: bold;">inexus</p>
         </a>
       </td>
       <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/your-github-repo-link-for-event-planner" style="text-decoration: none; display: block; border: 2px solid #ffc107; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;">
           <img src="URL_TO_SMART_EVENT_PLANNER_LOGO.png" alt="Smart Event Planner Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
-          <p style="margin-top: 10px; color: #333; font-weight: bold;">Smart Event Planner</p>
+          <p style="margin-top: 10px; color: #333; font-weight: bold;">Evently</p>
         </a>
       </td>
       <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/your-github-repo-link-for-shopit" style="text-decoration: none; display: block; border: 2px solid #fd7e14; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;">
-          <img src="URL_TO_SHOPIT_LOGO.png" alt="Shopit Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
+          <img src="github/play_store_512.png" alt="Shopit Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
           <p style="margin-top: 10px; color: #333; font-weight: bold;">Shopit</p>
         </a>
       </td>
