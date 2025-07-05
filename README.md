@@ -3,13 +3,7 @@
   <br>
 </div>
 
-## 🔗 Connect
-
-* **Email:** atharvalohote@gmail.com
-* **LinkedIn:** [Atharva Lohote](https://www.linkedin.com/in/atharvalohote)
-* **Google Cloud:** [Atharva Lohote](https://cloud.google.com/talent/profile/atharvalohote)
-
----
+<img src="github/inexus.png"
 
 ## 🚀 My Creations
 
