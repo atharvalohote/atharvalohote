@@ -43,7 +43,7 @@
       </td>
       <td style="padding: 10px; text-align: center;">
         <a href="https://github.com/your-github-repo-link-for-booster" style="text-decoration: none; display: block; border: 2px solid #6f42c1; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s;">
-          <img src="URL_TO_BOOSTER_LOGO.png" alt="Booster Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
+          <img src="github/icon-192.png" alt="Booster Logo" style="width: 100%; height: auto; display: block; border-radius: 13px;">
           <p style="margin-top: 10px; color: #333; font-weight: bold;">Booster</p>
         </a>
       </td>
